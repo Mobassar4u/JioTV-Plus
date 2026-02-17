@@ -2003,12 +2003,12 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Channel_News_Asia_International_BTS/outpu
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1771313762~exp=1771400162~acl=/*~hmac=55f2c8c60af3873042385ec7be2f3b769929e6aab945d6b593b4090149d7db4d"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Jonack_BTS/output/index.mpd
-#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/767_l_high.jpg" ,Raj News 24x7
+#EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/767_l_high.jpg" ,Raj News 24x7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5%20(Linux%3BAndroid%2015)%20ExoPlayerLib/2.11.6%20YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1771313762~exp=1771400162~acl=/*~hmac=55f2c8c60af3873042385ec7be2f3b769929e6aab945d6b593b4090149d7db4d"}
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_News 24x7_BTS/output/index.mpd
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_News 24x7_BTS/output/index.mpd
 #EXTINF:-1 group-title="JioStar" tvg-logo="https://img.media.jio.com/tvpimages/66/40/768_l_high.jpg" ,Jan TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf
