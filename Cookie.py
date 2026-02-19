@@ -12,7 +12,7 @@ JSON_SOURCE_URL = "https://raw.githubusercontent.com/Mobassar4u/JioTV-Plus/refs/
 # Dynamic Pathing: Locates the file relative to where this script sits
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # Moves up one level from 'scripts/' and into 'data/'
-FILE_TO_UPDATE = os.path.join(BASE_DIR, "../data/playlist.json")
+FILE_TO_UPDATE = os.path.join(BASE_DIR, "../playlist.json")
 REPO_PATH = os.path.join(BASE_DIR, "../")
 
 # Cookie settings: Expiry set to 24 hours (86400 seconds) from now
