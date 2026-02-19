@@ -7,7 +7,7 @@ from git import Repo
 
 # --- CONFIGURATION ---
 # The URL where your source JSON is hosted
-JSON_SOURCE_URL = "https://example.com/api/data.json"
+JSON_SOURCE_URL = "https://raw.githubusercontent.com/Mobassar4u/JioTV-Plus/refs/heads/main/source.json"
 
 # Dynamic Pathing: Locates the file relative to where this script sits
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
