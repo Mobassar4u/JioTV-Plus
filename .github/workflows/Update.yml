@@ -1,7 +1,7 @@
 name: Daily Cookie Refresh
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight UTC
+ #   - cron: '0 0 * * *' # Runs at midnight UTC
   workflow_dispatch:   # Allows manual "Run" button in GitHub UI
 
 jobs:
